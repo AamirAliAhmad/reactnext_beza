@@ -51,9 +51,13 @@ const SocialLinks = [
         iconName: "ri-facebook-fill",
         Url: "https://www.facebook.com/",
     },
+    // {
+    //     iconName: "ri-twitter-fill",
+    //     Url: "ri-twitter-fill",
+    // },
     {
-        iconName: "ri-twitter-fill",
-        Url: "ri-twitter-fill",
+        iconName: "ri-youtube-fill",
+        Url: "ri-youtube-fill",
     },
     {
         iconName: "ri-instagram-fill",
@@ -67,6 +71,8 @@ const SocialLinks = [
 
 const HeroSlider = () => {
     const [display, setDisplay] = React.useState(false);
+
+
     React.useEffect(() => {
         setDisplay(true);
     }, [])

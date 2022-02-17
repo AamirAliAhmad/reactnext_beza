@@ -39,9 +39,9 @@ const NavbarStyleOne = () => {
                         <nav className="navbar navbar-expand-lg navbar-light">
                             <Link href="/">
                                 <a className="navbar-brand">
-                                    <img
-                                        src="/images/logo.png"
-                                        alt="Site Logo"
+                                    <img style={{width:"46%;"}}
+                                        src="/images/apple-touch-icon.png"
+                                        alt="."
                                     />
                                 </a>
                             </Link>
@@ -62,7 +62,7 @@ const NavbarStyleOne = () => {
 
                             <div className={classOne} id="navbarSupportedContent">
                                 <ul className="navbar-nav m-auto">
-                                    <li className="nav-item">
+                                    {/* <li className="nav-item">
                                         <Link href="#" activeClassName="active">
                                             <a onClick={e => e.preventDefault()} className="dropdown-toggle nav-link">
                                                 Home <i className="ri-arrow-down-s-line"></i>
@@ -85,7 +85,7 @@ const NavbarStyleOne = () => {
                                                 </Link>
                                             </li>
                                         </ul>
-                                    </li>
+                                    </li> */}
 
                                     <li className="nav-item megamenu">
                                         <Link href="#">
@@ -99,11 +99,11 @@ const NavbarStyleOne = () => {
                                                     <a onClick={toggleNavbar}>About</a>
                                                 </Link>
                                             </li>
-                                            <li>
+                                            {/* <li>
                                                 <Link href="/pricing" activeClassName="active">
                                                     <a onClick={toggleNavbar}>Pricing</a>
                                                 </Link>
-                                            </li>
+                                            </li> */}
                                             <li>
                                                 <Link href="/team" activeClassName="active">
                                                     <a onClick={toggleNavbar}>Team</a>
@@ -114,7 +114,7 @@ const NavbarStyleOne = () => {
                                                     <a onClick={toggleNavbar}>Gallery</a>
                                                 </Link>
                                             </li>
-                                            <li>
+                                            {/* <li>
                                                 <Link href="/appointment" activeClassName="active">
                                                     <a onClick={toggleNavbar}>Appointment</a>
                                                 </Link>
@@ -123,7 +123,7 @@ const NavbarStyleOne = () => {
                                                 <Link href="/testimonials" activeClassName="active">
                                                     <a onClick={toggleNavbar}>Testimonials</a>
                                                 </Link>
-                                            </li>
+                                            </li> */}
                                             <li>
                                                 <Link href="/faq" activeClassName="active">
                                                     <a onClick={toggleNavbar}>FAQ</a>
@@ -150,7 +150,7 @@ const NavbarStyleOne = () => {
                                                 </ul>
                                             </li>
 
-                                            <li className="nav-item">
+                                            {/* <li className="nav-item">
                                                 <Link href="#">
                                                     <a onClick={e => e.preventDefault()} className="dropdown-toggle nav-link">
                                                         User Pages <i className="ri-arrow-right-s-line"></i>
@@ -173,7 +173,7 @@ const NavbarStyleOne = () => {
                                                         </Link>
                                                     </li> 
                                                 </ul>
-                                            </li>
+                                            </li> */}
                                             <li>
                                                 <Link href="/terms-of-service" activeClassName="active">
                                                     <a onClick={toggleNavbar}>Terms of Service</a>
@@ -212,7 +212,7 @@ const NavbarStyleOne = () => {
                                         </ul>
                                     </li>
  
-                                    <li className="nav-item">
+                                    {/* <li className="nav-item">
                                         <Link href="#">
                                             <a onClick={e => e.preventDefault()} className="dropdown-toggle nav-link">
                                                 Case Studies <i className="ri-arrow-down-s-line"></i>
@@ -230,9 +230,9 @@ const NavbarStyleOne = () => {
                                                 </Link>
                                             </li>
                                         </ul>
-                                    </li>
+                                    </li> */}
 
-                                    <li className="nav-item">
+                                    {/* <li className="nav-item">
                                         <Link href="#">
                                             <a onClick={e => e.preventDefault()} className="dropdown-toggle nav-link">
                                                 Blog <i className="ri-arrow-down-s-line"></i>
@@ -250,7 +250,7 @@ const NavbarStyleOne = () => {
                                                 </Link>
                                             </li> 
                                         </ul>
-                                    </li>
+                                    </li> */}
 
                                     <li className="nav-item">
                                         <Link href="/contact" activeClassName="active">
@@ -261,11 +261,11 @@ const NavbarStyleOne = () => {
                             </div>
 
                             <div className="others-options d-flex align-items-center">
-                                <div className="option-item">
+                                {/* <div className="option-item">
                                     <div className="search-box" onClick={handleToggleSearchModal}>
                                         <i className="ri-search-line"></i>
                                     </div>
-                                </div>
+                                </div> */}
                                 <div className="option-item">
                                     <a href="tel:15143125678" className="default-btn">
                                         +1 (514) 312-5678

@@ -11,7 +11,7 @@ const AboutCompany = () => {
                         <div className="col-lg-6 col-md-12">
                             <div className={styles.aboutContent}>
                                 <span>ABOUT OUR COMPANY</span>
-                                <h3>We formed the IT service in 2005 based on client requirements</h3>
+                                <h3>We formed the IT service in 2020 based on client requirements</h3>
                                 <p>Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Praesent sapien massa, convallis a pellentesque nec egestas non nisi. Mauris blandit aliquet elit eget tincidunt nibh pulvinar rutrum congue leo eget malesuada.</p>
 
                                 <div className="row">
@@ -50,7 +50,7 @@ const AboutCompany = () => {
                                     alt="About Image" 
                                 />
                                 <div className={styles.sinceText}>
-                                    <span>Since 2005</span>
+                                    <span>Since 2020</span>
                                 </div>
                             </div>
                         </div>
