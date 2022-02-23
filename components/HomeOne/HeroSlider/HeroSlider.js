@@ -116,11 +116,11 @@ const HeroSlider = () => {
                                                     </Link>
                                                 </li>
                                                 <li>
-                                                    <Link href={val.servicesBtnUrl}>
+                                                    {/* <Link href={val.servicesBtnUrl}>
                                                         <a className={styles.optionalBtn}>
                                                             {val.servicesBtnText}
                                                         </a>
-                                                    </Link>
+                                                    </Link> */}
                                                 </li>
                                             </ul>
                                         </div>
@@ -144,7 +144,7 @@ const HeroSlider = () => {
                 
                 {/* Email Address */}
                 <div className={styles.mainSlidesEmail}>
-                    <a href="mailto:contact@biza.com">contact@biza.com</a>
+                    <a href="mailto:inquiry@iits.in">contact@biza.com</a>
                 </div>
             </div>
         </>

@@ -12,7 +12,7 @@ const ContactInfo = () => {
                         <i className="flaticon-pin"></i>
                     </div>
                     <span>Address :</span>
-                    <p>413 Mesa Drive North Las Vegas, NV 89032</p>
+                    <p> 12, Rustomjee Globle City, Virar(W), Mumbai(M.H), India - 401303    </p>
                 </div>
 
                 <div className={styles.innerBox}>
@@ -20,7 +20,7 @@ const ContactInfo = () => {
                         <i className="flaticon-call"></i>
                     </div>
                     <span>Phone :</span>
-                    <p><a href="tel:15143125678">+1 (514) 312-5678</a></p>
+                    <p><a href="tel:+919316799050">+91-9316799050</a></p>
                 </div>
 
                 <div className={styles.innerBox}>
@@ -28,7 +28,7 @@ const ContactInfo = () => {
                         <i className="flaticon-email"></i>
                     </div>
                     <span>Email :</span>
-                    <p><a href="mailto:hello@biza.com">hello@biza.com</a></p>
+                    <p><a href="mailto:inquiry@iits.in">inquiry@iits.in</a></p>
                 </div>
             </div>
         </>

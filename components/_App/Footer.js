@@ -20,7 +20,7 @@ const Footer = () => {
                                     </Link>
                                 </div>
                                 
-                                <p>Lorem ipsum dolor sit amet consec elit sed eiusmod tempor incididunt ut labore etdolore magna aliqua.</p>
+                                <p></p>
 
                                 <ul className="footer-widget-social">
                                     <li><span>Follow us:</span></li>
@@ -49,7 +49,7 @@ const Footer = () => {
                         </div>
 
                         <div className="col-lg-3 col-sm-6">
-                            <div className="single-footer-widget ps-5">
+                            <div className="single-footer-widget ps-5" style={{display:"none"}}>
                                 <h3>Quick links</h3>
 
                                 <ul className="quick-links">
@@ -83,7 +83,7 @@ const Footer = () => {
                         </div>
 
                         <div className="col-lg-3 col-sm-6">
-                            <div className="single-footer-widget">
+                            <div className="single-footer-widget" style={{display:"none"}}>
                                 <h3>IT Services</h3>
 
                                 <ul className="quick-links">
@@ -123,15 +123,14 @@ const Footer = () => {
                                 <ul className="footer-information">
                                     <li className="d-flex">
                                         <span className="pe-2">Address:</span> 
-                                        413 Mesa Drive North Las Vegas, NV 89032
-                                    </li>
+                                        12, Rustomjee Globle City, Virar(W), Mumbai(M.H), India - 401303                                   </li>
                                     <li className="d-flex">
                                         <span className="pe-2">Phone:</span>
-                                        <a href="tel:15143125678">+1 (514) 312-5678</a>
+                                        <a href="tel:+919316799050">+91-9316799050</a>
                                     </li>
                                     <li className="d-flex">
                                         <span className="pe-2">Email:</span>
-                                        <a href="mailto:hello@biza.com">hello@biza.com</a>
+                                        <a href="mailto:inquiry@iits.in">inquiry@iits.in</a>
                                     </li>
                                 </ul>
                             </div>
@@ -142,7 +141,7 @@ const Footer = () => {
                     <div className="container">
                         <div className="copyright-area-content">
                             <p>
-                                Copyright © {currentYear} Biza All Rights Reserved by <a href="https://envytheme.com/" target="_blank">EnvyTheme</a>
+                                Copyright ©2021 IITS All Rights Reserved | Developed by #AAA
                             </p>
                         </div>
                     </div>

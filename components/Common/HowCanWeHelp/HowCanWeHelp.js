@@ -12,18 +12,18 @@ const HowCanWeHelp = () => {
                             <div className={styles.technologyContent}>
                                 <span>HOW CAN WE HELP YOU?</span>
                                 <h3>We can help in any way in the field of IT service and technology</h3>
-                                <p>Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Praesent sapien massa, convallis a pellentesque nec egestas non nisi. Mauris blandit aliquet elit eget tincidunt nibh pulvinar rutrum congue leo eget malesuada.</p>
+                                <p>Our Dedicated Team has professional Web Designers & Developers, Application programmers, Digital Marketer and Graphics Designer. We specialize in e-commerce, Mobile Apps Development, Custom Website Design, Custom Software Development, best quality Digital Marketing Services and more.</p>
             
                                 <div className={styles.technologyInnerContent}>
                                     <div className={styles.number}>01</div>
                                     <h4>Monthly IT support</h4>
-                                    <p>Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Praesent sapien pellentesque nec egestas non nisi.</p>
+                                    <p><hr/></p> 
                                 </div>
 
                                 <div className={styles.technologyInnerContent}>
                                     <div className={styles.number}>02</div>
                                     <h4>Clear and transparent flat rates</h4>
-                                    <p>Vehicula elementum sed sit amet dui. Praesent sapien massa convallis a ellentesque nec egestas non nisi.</p>
+                                    <p><hr/></p>
                                 </div>
                             </div>
                         </div>

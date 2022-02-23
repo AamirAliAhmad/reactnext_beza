@@ -40,11 +40,11 @@ const IndexPage = () => {
 
             <AppointmentForm />
 
-            <TestimonialSlider />
+            {/* <TestimonialSlider />
 
-            <PartnerSlider />
+            <PartnerSlider /> */}
 
-            <OurBlog />
+            {/* <OurBlog /> */}
 
             <NewsletterForm />
 

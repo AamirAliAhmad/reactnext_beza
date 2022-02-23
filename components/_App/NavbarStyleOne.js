@@ -39,7 +39,7 @@ const NavbarStyleOne = () => {
                         <nav className="navbar navbar-expand-lg navbar-light">
                             <Link href="/">
                                 <a className="navbar-brand">
-                                    <img style={{width:"46%;"}}
+                                    <img
                                         src="/images/apple-touch-icon.png"
                                         alt="."
                                     />
@@ -87,7 +87,7 @@ const NavbarStyleOne = () => {
                                         </ul>
                                     </li> */}
 
-                                    <li className="nav-item megamenu">
+                                    {/* <li className="nav-item megamenu">
                                         <Link href="#">
                                             <a onClick={e => e.preventDefault()} className="dropdown-toggle nav-link">
                                                 Pages <i className="ri-arrow-down-s-line"></i>
@@ -99,11 +99,11 @@ const NavbarStyleOne = () => {
                                                     <a onClick={toggleNavbar}>About</a>
                                                 </Link>
                                             </li>
-                                            {/* <li>
+                                            <li>
                                                 <Link href="/pricing" activeClassName="active">
                                                     <a onClick={toggleNavbar}>Pricing</a>
                                                 </Link>
-                                            </li> */}
+                                            </li>
                                             <li>
                                                 <Link href="/team" activeClassName="active">
                                                     <a onClick={toggleNavbar}>Team</a>
@@ -114,7 +114,7 @@ const NavbarStyleOne = () => {
                                                     <a onClick={toggleNavbar}>Gallery</a>
                                                 </Link>
                                             </li>
-                                            {/* <li>
+                                            <li>
                                                 <Link href="/appointment" activeClassName="active">
                                                     <a onClick={toggleNavbar}>Appointment</a>
                                                 </Link>
@@ -123,7 +123,7 @@ const NavbarStyleOne = () => {
                                                 <Link href="/testimonials" activeClassName="active">
                                                     <a onClick={toggleNavbar}>Testimonials</a>
                                                 </Link>
-                                            </li> */}
+                                            </li>
                                             <li>
                                                 <Link href="/faq" activeClassName="active">
                                                     <a onClick={toggleNavbar}>FAQ</a>
@@ -150,7 +150,7 @@ const NavbarStyleOne = () => {
                                                 </ul>
                                             </li>
 
-                                            {/* <li className="nav-item">
+                                            <li className="nav-item">
                                                 <Link href="#">
                                                     <a onClick={e => e.preventDefault()} className="dropdown-toggle nav-link">
                                                         User Pages <i className="ri-arrow-right-s-line"></i>
@@ -173,7 +173,7 @@ const NavbarStyleOne = () => {
                                                         </Link>
                                                     </li> 
                                                 </ul>
-                                            </li> */}
+                                            </li>
                                             <li>
                                                 <Link href="/terms-of-service" activeClassName="active">
                                                     <a onClick={toggleNavbar}>Terms of Service</a>
@@ -190,9 +190,9 @@ const NavbarStyleOne = () => {
                                                 </Link>
                                             </li>
                                         </ul>   
-                                    </li>
+                                    </li> */}
 
-                                    <li className="nav-item">
+                                    {/* <li className="nav-item">
                                         <Link href="#">
                                             <a onClick={e => e.preventDefault()} className="dropdown-toggle nav-link">
                                                 Services <i className="ri-arrow-down-s-line"></i>
@@ -210,7 +210,7 @@ const NavbarStyleOne = () => {
                                                 </Link>
                                             </li>
                                         </ul>
-                                    </li>
+                                    </li> */}
  
                                     {/* <li className="nav-item">
                                         <Link href="#">
@@ -267,8 +267,8 @@ const NavbarStyleOne = () => {
                                     </div>
                                 </div> */}
                                 <div className="option-item">
-                                    <a href="tel:15143125678" className="default-btn">
-                                        +1 (514) 312-5678
+                                    <a href="tel:1234567890" className="default-btn">
+                                    +91-1234567890
                                     </a>
                                 </div>
                             </div>

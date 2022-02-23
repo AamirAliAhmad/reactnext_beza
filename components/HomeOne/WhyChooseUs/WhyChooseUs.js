@@ -46,20 +46,19 @@ const WhyChooseUs = () => {
                             <div className={styles.chooseUsContent}>
                                 <span>WHY CHOOSE US</span>
                                 <h3>Any IT related work solution can be easily found from us</h3>
-                                <p>Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Praesent sapien massa, convallis a pellentesque nec egestas non nisi. Mauris blandit aliquet elit eget tincidunt nibh pulvinar rutrum congue leo eget malesuada.</p>
+                                <p>We believe to create imagination! Clients as we futures’ to build a strong relationship with our clients by filling their requirements and goals to set an example with 24*7 support among our competitors that we emphasized more on customer building and commitment than to create strong vision statements.</p>
 
                                 <div className={styles.chooseInnerContent}>
                                     <div className={styles.icon}>
                                         <i className="flaticon-laptop"></i>
                                     </div>
                                     <h4>IT solution</h4>
-                                    <p>Nulla porttitor accumsan tincidunt lorem ipsum dolor sit amet consectetur adipiscing elit. Praesent sapien massa convallis a pellentesque nec egestas non nisi. Nulla porttitor accumsan tincidunt.</p>
+                                    <p>We are giving you best solutions in very few steps quickly.</p>
 
                                     <ul className={styles.list}>
-                                        <li>Praesent sapien massa, convallis a pellentesque nec.</li>
-                                        <li>Nulla porttitor accumsan tincidunt.</li>
-                                        <li>ivamus suscipit tortor eget felis porttitor volutpat.</li>
-                                        <li>Donec rutrum congue leo eget malesuada.</li>
+                                        <li>We <b>Design</b> for you.</li>
+                                        <li>We <b>Develop</b> for you.</li>
+                                        <li>We <b>Deliver</b> for you</li>
                                     </ul>
                                 </div>
                             </div>
