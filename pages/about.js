@@ -3,7 +3,9 @@ import NavbarStyleOne from '@/components/_App/NavbarStyleOne';
 import PageBanner from '@/components/Common/PageBanner/PageBanner';
 import AboutContent from '@/components/About/AboutContent/AboutContent';
 import FunFact from '@/components/Common/FunFactTwo/FunFact';
-import WhyChooseUs from '@/components/About/WhyChooseUs/WhyChooseUs';
+// import WhyChooseUs from '@/components/About/WhyChooseUs/WhyChooseUs';
+import WhyChooseUs from '@/components/HomeOne/WhyChooseUs/WhyChooseUs';
+
 import OurTeam from '@/components/Common/OurTeam/OurTeam';
 import TestimonialSlider from '@/components/Common/Testimonials/TestimonialSlider';
 import PartnerSlider from '@/components/Common/PartnersTwo/PartnerSlider';

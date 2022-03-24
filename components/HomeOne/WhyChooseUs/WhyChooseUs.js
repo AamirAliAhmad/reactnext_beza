@@ -58,7 +58,7 @@ const WhyChooseUs = () => {
                                     <ul className={styles.list}>
                                         <li>We <b>Design</b> for you.</li>
                                         <li>We <b>Develop</b> for you.</li>
-                                        <li>We <b>Deliver</b> for you</li>
+                                        <li>We <b>Deliver</b> to you</li>
                                     </ul>
                                 </div>
                             </div>

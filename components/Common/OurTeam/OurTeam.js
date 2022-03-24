@@ -5,7 +5,7 @@ import styles from '@/components/Common/OurTeam/OurTeam.module.css'
 // Team Card Content
 const TeamCardContent = [
     {
-        image: "/images/team/team-1.jpg",
+        image: "/images/team/DefaultAvtar.jpg",
         imageAlt: "Team image",
         name: "Albina Josef",
         designation: "President", 
@@ -23,7 +23,7 @@ const TeamCardContent = [
         linLink: "https://www.linkedin.com/",
     },
     {
-        image: "/images/team/team-2.jpg",
+        image: "/images/team/DefaultAvtar.jpg",
         imageAlt: "Team image",
         name: "Kathryn Pino",
         designation: "Head of HR", 
@@ -41,7 +41,7 @@ const TeamCardContent = [
         linLink: "https://www.linkedin.com/",
     },
     {
-        image: "/images/team/team-3.jpg",
+        image: "/images/team/DefaultAvtar.jpg",
         imageAlt: "Team image",
         name: "Robert Pease",
         designation: "Delivery Director", 
@@ -59,7 +59,7 @@ const TeamCardContent = [
         linLink: "https://www.linkedin.com/",
     },
     {
-        image: "/images/team/team-4.jpg",
+        image: "/images/team/DefaultAvtar.jpg",
         imageAlt: "Team image",
         name: "Felicia Jones",
         designation: "Business Development", 
